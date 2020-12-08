@@ -4,8 +4,8 @@ end
 
 def my_hash
   new_hash = {
-    :carl => "weathers"
-    :macho => "Man randy savage"
+    carl: "weathers",
+    macho: "Man randy savage"
   }
 end
 
